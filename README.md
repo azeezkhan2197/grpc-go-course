@@ -1,1 +1,1 @@
-# grpc-go-courses
+# grpc-go-course
